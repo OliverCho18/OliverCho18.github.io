@@ -1,12 +1,18 @@
-## Welcome to Oliver Cho's Portfolio
+# Welcome to Oliver Cho's Portfolio
 
-You can use this site to see some of Oliver's Worksamples.
+##About Me
+
+I’m a hard-working and highly creative individual who has consistently demonstrated results and completion of projects on time. I am a good communicator who can clearly convey ideas and help implement change initiatives. I have the ability to lead a project or support to project as a team member. As a constant learner and not afraid of challenges and difficulties. I am currently employed by Applied Materials where I work as a Software Application Engineer. During my time there I have worked on a mulitude of projects ranging from software integration of IOT devices to creating maintenance training procedures in virtual reality. Most notably I developed an automated installation and warranty analysis software which reduced helped improve financial analysis time of install and warranty reports from 2 days to 5 minutes. I feel that with my skill set and my positive contriubtions I can help to further improve any software or task you put me in.
+
+
+
+##WorkSamples
+
+##Contact Me
+
 You can use the [editor on GitHub](https://github.com/OliverCho18/OliverCho18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
