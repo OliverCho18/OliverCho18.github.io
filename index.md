@@ -7,11 +7,14 @@ I’m a hard-working and highly creative individual who has consistently demonst
 
 
 ## WorkSamples
-Tic Tac Toe
-Tic Tac Toe with GUI
+[Tic Tac Toe](https://github.com/OliverCho18/TicTacToe)-A Tic Tac Toe game meant to run in your command prompt or terminal written in Java. 
+
+[Tic Tac Toe with GUI](https://github.com/OliverCho18/TicTacToeWithGUI)-A Tic Tac Toe game with GUI written in Java
 
 
 ## Contact Me
+Email: oliver.ccho@gmail.com
+[LinkedIn](https://www.linkedin.com/in/oliver-cho-686335135/) 
 
 You can use the [editor on GitHub](https://github.com/OliverCho18/OliverCho18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
