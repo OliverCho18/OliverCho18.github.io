@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a hard-working and highly creative individual who has consistently demonstrated results and completion of projects on time. I am a good communicator who can clearly convey ideas and help implement change initiatives. I have the ability to lead a project or support to project as a team member. As a constant learner and not afraid of challenges and difficulties. I am currently employed by Applied Materials where I work as a Software Application Engineer. During my time there I have worked on a mulitude of projects ranging from software integration of IOT devices to creating maintenance training procedures in virtual reality. Most notably I developed an automated installation and warranty analysis software which reduced helped improve financial analysis time of install and warranty reports from 2 days to 5 minutes. I feel that with my skill set and my positive contriubtions I can help to further improve any software or task you put me in.
+I’m a hard-working and highly creative individual who has consistently demonstrated results and completion of projects on time. I am a good communicator who can clearly convey ideas and help implement change initiatives. I have the ability to lead a project or support to project as a team member. As a constant learner and not afraid of challenges and difficulties. I am currently employed by Applied Materials where I work as a Software Application Engineer. During my time with Applied Materials I have worked on a mulitude of projects ranging from software integration of IOT devices to creating maintenance training procedures in virtual reality. Most notably I developed an automated installation and warranty analysis software which reduced helped improve financial analysis time of install and warranty reports from 2 days to 5 minutes. I feel that with my skill set unique perspective, I can help to further improve any software stack or project I work on.
 
 
 
@@ -14,6 +14,8 @@ I’m a hard-working and highly creative individual who has consistently demonst
 
 ## Contact Me
 Email: oliver.ccho@gmail.com
+
+Phone: 650-796-1308
 
 [LinkedIn](https://www.linkedin.com/in/oliver-cho-686335135/) 
 
