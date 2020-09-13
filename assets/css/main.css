@@ -2908,6 +2908,10 @@ input, select, textarea {
 			.main.style2 .icon.major {
 				color: #ffffff;
 			}
+			.main.style3 {
+				background: #4686a0;
+				color:#ffffff;
+			}
 
 /* Header */
 
